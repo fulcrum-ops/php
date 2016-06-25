@@ -1,2 +1,3 @@
-# php
-Fulcrum Image packaging for PHP
+# About this Repo
+
+This is the Git repo of the Fulcrum for php.
